@@ -1,0 +1,16 @@
+h1 {
+    text-align: center;
+}
+
+.login {
+    padding: 35px;
+    text-align: center;
+}
+
+#out {
+    text-align: center;
+}
+
+body {
+    background-color: rgb(49, 193, 233);
+}
