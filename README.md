@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Swapnendu Let</h1>
 <h3 align="center">A passionate AI/ML/DL developer and Computer vision enthusiast from India.</h3>
 
-- 🔭 I’m currently working on **CalorieTrack AI, a calorie calculator that predicts calorie consumption based on parameters such as heart rate, weight, height, body temperature, and exercise duration. The project leverages data from Kaggle's exercise and calorie dataset. I implemented XGBoostRegressor and RandomForestRegressor models, achieving a high accuracy of 99.89% and a mean squared error of 1.78. This model successfully predicts calorie consumption, and further analysis using additional models is expected to improve the accuracy even further.**
+- 🔭 I have worked on **CalorieTrack AI, a calorie calculator that predicts calorie consumption based on parameters such as heart rate, weight, height, body temperature, and exercise duration. The project leverages data from Kaggle's exercise and calorie dataset. I implemented XGBoostRegressor and RandomForestRegressor models, achieving a high accuracy of 99.89% and a mean squared error of 1.78. This model successfully predicts calorie consumption, and further analysis using additional models is expected to improve the accuracy even further.**
 - 🚀 Deployed on heroku [Link](https://calories-cal-f9ae9744e250.herokuapp.com)
 - 🌱 I’m currently learning **Machine Learning and Deep learning with Computer Vision.**
 
